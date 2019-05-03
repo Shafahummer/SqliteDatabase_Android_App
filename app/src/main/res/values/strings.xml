@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SqliteDatabase_Android_App</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="course_count">Course Count</string>
+    <string name="add_data">Add Data</string>
+    <string name="view">View</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="view_all">View All</string>
+</resources>
